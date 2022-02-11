@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Redressed&display=swap');
 
 * {
     box-sizing: border-box;
@@ -12,7 +12,7 @@
 
 body {
     margin: 0;
-    font-family: 'Redressed', cursive;
+    font-family: 'Architects Daughter', cursive;
     color: #333333;
 }
 
